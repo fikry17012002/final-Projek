@@ -1,0 +1,6 @@
+Administrator :
+
+username: admin@admin.com 
+password: password
+
+#ini rahasia
